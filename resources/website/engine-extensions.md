@@ -108,7 +108,7 @@ Name | Author | Stencyl Version | Platforms | Status | Notes
 Use this section to [add requests](https://github.com/Stencyl/stencylpedia/blob/master/resources/website/engine-extensions.md) for extensions. If one has already been suggested, [add your name](https://github.com/Stencyl/stencylpedia/blob/master/resources/website/engine-extensions.md) to the extra votes section.
 
 Title | Your Name (on Stencyl.com) | Description | Extra Votes | Notes |
---- | --- | --- | --- | ---- |
+**Gameplay Sharer** | Waterman | Captures Gameplay And Saves To Gallery | --- | ---- |
 [**Skeletal Animation**](http://community.stencyl.com/index.php/topic,26183.0.html) | Jon | Support skeletal animations created in Spine and Spriter | --- | ---
 **In app browser for Windows**| Donni11 | In app browser ; users can view webpages in the windows game  |--- | A extension is [available for IOS and Android](http://community.stencyl.com/index.php/topic,38900.0.html)
 **Audio Utilities**| Ozygiygas | Modify game audio at runtime: change pitch, speed, and/or distort sounds and music | --- | ---
